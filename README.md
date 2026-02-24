@@ -1,9 +1,7 @@
 ## Hi there 👋 I'm Ramya
 
 Undergrad @ Chennai Institute of Technology
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">                                             
-- 🌱 I’m currently learning Backend Development
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/78/17/04/7817047889af38d483287d632d383e6e.gif">          - 🌱 I’m currently learning Backend Development
 - 😲 I'm curious about Artificial Intelligence and Blockchain Integration
 
 ### Skills
